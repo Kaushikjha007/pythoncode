@@ -1,2 +1,1 @@
-print("Wassup Buddy!! Kaushik jjjha")
-jwnfjnekjf;;;
+print("Wassup Buddy!! Kaushik jha")
