@@ -1,1 +1,1 @@
-print("Wassup Buddy!! Thala Ka Bhala")
+hjhjprint("Wassup Buddy!! Thala Ka Bhala")
