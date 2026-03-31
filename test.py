@@ -1,1 +1,1 @@
-jhgprint("Wassup Buddy!! Virendra sehwag")
+print("Wassup Buddy!! Virendra sehwag")
