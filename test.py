@@ -1,1 +1,1 @@
-print("Wassup Buddy!! Kaushik")
+jprint("Wassup Buddy!! Kaushik")
